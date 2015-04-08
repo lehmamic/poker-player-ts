@@ -4,5 +4,11 @@
   "description": "TypeScript player from lean poker. http://leanpoker.orgJavascript player from lean poker. http://leanpoker.org",
   "scripts": {
     "start": "node ./service.js"
+  },
+  "dependencies": {
+    "restify": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.5.0-alpha"
   }
 }
