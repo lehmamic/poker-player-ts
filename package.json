@@ -1,0 +1,8 @@
+{
+  "name": "poker-player-ts",
+  "version": "1.0.0",
+  "description": "TypeScript player from lean poker. http://leanpoker.orgJavascript player from lean poker. http://leanpoker.org",
+  "scripts": {
+    "start": "node ./service.js"
+  }
+}
